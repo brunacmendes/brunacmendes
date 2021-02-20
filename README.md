@@ -11,3 +11,6 @@
 
 <!---- 💼 One-year full-time work experience as freelancer-->
 
+#### Check out my Medium!
+
+[![Bruna Mendes Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=brucmendes)](https://brucmendes.medium.com/)
