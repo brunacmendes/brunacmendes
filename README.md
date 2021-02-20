@@ -1,6 +1,6 @@
 ### Hi there, this is Bruna's GitHub!
 
-![](banner.png)
+![](NYCA-banner.png)
 
 👩 **About Me:**
 
