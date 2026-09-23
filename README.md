@@ -5,7 +5,7 @@
 👩 **About Me:**
 
 - 🎓 Bachelor degree in Computer Science
-- 💻 Working on `.py`, `.ipynb`, SQL and databases and data pipelines daily.
+- 💻 Working on `.py`, `.ipynb`, SQL and data pipelines daily.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/brucmendes/)
 - 😄 Pronouns: she/her
 
